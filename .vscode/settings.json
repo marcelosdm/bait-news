@@ -1,0 +1,10 @@
+{
+  "eslint.workingDirectories": ["./{PATH_TO_CLIENT}"],
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true,
+    "source.organizeImports": true
+  },
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "typescript.preferences.importModuleSpecifier": "relative"
+}
